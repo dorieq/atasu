@@ -44,6 +44,7 @@ INSTALLED_APPS = [
 
     # custom
     'railways',
+    'account'
 ]
 
 MIDDLEWARE = [
